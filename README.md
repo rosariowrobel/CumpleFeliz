@@ -1,5 +1,5 @@
 # CumpleFeliz
-Un saludo especial en el día del cumpleaños de alguien especial .. echo en Node.js
+Un saludo especial en el día del cumpleaños de alguien especial .. hecho en Node.js
 
 ## Índice
 
